@@ -4,8 +4,10 @@ Starving Cat Project เป็นโปรเจคกลุ่มที่ม�
 
 
 # ✏️ Role
-Designer
-<br>
+- Graphic Designer
+- Documentation
+- Media presentation
+
 
 
 # 🔨 Tools
